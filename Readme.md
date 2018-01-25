@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ксения Григорьева](https://up.htmlacademy.ru/javascript/12/user/195458).
-* Наставник: `Неизвестно`.
+* Наставник: [Константин Мамаев](https://htmlacademy.ru/profile/meison).
 
 ---
 
